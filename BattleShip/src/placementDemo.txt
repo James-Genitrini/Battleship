@@ -1,0 +1,12 @@
+2
+D2D5
+F2H2
+B7D7
+F9G9
+A1A2
+I4I5
+G6
+G4
+C10
+J8
+exit
