@@ -10,7 +10,7 @@ Bahouassila Christ (cbahouas)
 Ben Smail Mehdi (MehdiBENSMAIL)   
 Froehly Jean-Baptiste (jb_frhl)   
 Gelin Maxence (mgelin)   
-Genitrini James (jgenitri or Y0WayzZ there is a bug with the username we don't know why)
+Genitrini James
 
 
 ***
